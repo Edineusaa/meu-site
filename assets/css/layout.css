@@ -63,7 +63,7 @@ header {
 }
 
 header #logo {
-	background-color: #f08080;
+	background-color: Cyan;
 	/* Exibição flexível.                          */
 	/* Torna o elemento um flex container          */
 	/* e os seus elementos internos em flex-itens. */
@@ -76,7 +76,7 @@ header #logo {
 	flex: 0 1 200px;
 
 	/* Cor do fundo. */
-	background: #C9C9C9;
+	background: #c9c9c9;
 
 	/* Alinha os itens na vertical. */
 	justify-content: center;
