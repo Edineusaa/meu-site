@@ -63,6 +63,7 @@ header {
 }
 
 header #logo {
+	background: #f08080;
 	/* Exibição flexível.                          */
 	/* Torna o elemento um flex container          */
 	/* e os seus elementos internos em flex-itens. */
